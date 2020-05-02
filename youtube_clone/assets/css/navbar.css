@@ -1,0 +1,25 @@
+.navbar_text {
+    display: flex;
+    padding: 1rem 2rem;
+    padding-left: 0;
+    font-size: 2rem;
+  }
+
+  .navbar_text_small {
+    display: flex;
+    padding: 1rem 2rem;
+    padding-left: 0;
+    font-size: 1rem;
+  }
+
+  #checkboxx {
+    display: none; /* visibility: hidden works too */
+  }
+
+  .tag-text {
+    align-content: center;
+    font-size: 1.5;
+    font-weight: 400;
+    color: blue;
+    margin: 1rem 1rem;
+  }
